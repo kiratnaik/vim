@@ -1,0 +1,199 @@
+<?xml version="1.0"?>
+<minder version="1.16.3" parent-etag="3972433225" etag="546253999">
+  <theme name="default" label="Light" index="-1"/>
+  <styles>
+    <style level="0" isset="true" branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="10" nodepadding="10" nodefont="Sans 11" nodemarkup="true" connectiondash="solid" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100" calloutfont="Sans 12" calloutpadding="5" calloutptrwidth="20" calloutptrlength="20"/>
+    <style level="1" isset="true" branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="solid" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100" calloutfont="Sans 12" calloutpadding="5" calloutptrwidth="20" calloutptrlength="20"/>
+    <style level="2" isset="true" branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="solid" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100" calloutfont="Sans 12" calloutpadding="5" calloutptrwidth="20" calloutptrlength="20"/>
+    <style level="3" isset="true" branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="solid" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100" calloutfont="Sans 12" calloutpadding="5" calloutptrwidth="20" calloutptrlength="20"/>
+    <style level="4" isset="true" branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="solid" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100" calloutfont="Sans 12" calloutpadding="5" calloutptrwidth="20" calloutptrlength="20"/>
+    <style level="5" isset="true" branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="solid" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100" calloutfont="Sans 12" calloutpadding="5" calloutptrwidth="20" calloutptrlength="20"/>
+    <style level="6" isset="true" branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="solid" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100" calloutfont="Sans 12" calloutpadding="5" calloutptrwidth="20" calloutptrlength="20"/>
+    <style level="7" isset="true" branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="solid" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100" calloutfont="Sans 12" calloutpadding="5" calloutptrwidth="20" calloutptrlength="20"/>
+    <style level="8" isset="true" branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="solid" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100" calloutfont="Sans 12" calloutpadding="5" calloutptrwidth="20" calloutptrlength="20"/>
+    <style level="9" isset="true" branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="solid" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100" calloutfont="Sans 12" calloutpadding="5" calloutptrwidth="20" calloutptrlength="20"/>
+    <style level="10" isset="true" branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="false" linkdash="solid" nodeborder="underlined" nodewidth="200" nodeborderwidth="4" nodefill="false" nodemargin="8" nodepadding="6" nodefont="Sans 11" nodemarkup="true" connectiondash="solid" connectionlwidth="2" connectionarrow="fromto" connectionpadding="3" connectionfont="Sans 10" connectiontwidth="100" calloutfont="Sans 12" calloutpadding="5" calloutptrwidth="20" calloutptrlength="20"/>
+  </styles>
+  <images/>
+  <nodes>
+    <node id="31" posx="275.12563926804796" posy="-555.95803547045148" width="288" height="87" side="top" fold="false" treesize="4539" summarized="false" layout="Downwards" group="false">
+      <style branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="300" nodeborderwidth="9" nodefill="true" nodemargin="9" nodepadding="20" nodefont="Serif 18" nodemarkup="true"/>
+      <nodename maxwidth="300">
+        <text data="HOW VIM WORKS"/>
+      </nodename>
+      <nodenote></nodenote>
+      <nodes>
+        <node id="33" posx="-719.37436073195204" posy="-368.95803547045148" width="156" height="87" side="bottom" fold="false" treesize="2418" color="#c6262e" colorroot="true" summarized="false" layout="Downwards" group="false">
+          <style branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="121" nodeborderwidth="9" nodefill="true" nodemargin="9" nodepadding="20" nodefont="Serif 18" nodemarkup="true"/>
+          <nodename maxwidth="118.19977793034286">
+            <text data="MODES"/>
+          </nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="38" posx="-1726.374360731952" posy="-181.95803547045148" width="618" height="261" side="bottom" fold="false" treesize="866" color="#c6262e" colorroot="true" summarized="false" layout="Downwards" group="false">
+              <style branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="531" nodeborderwidth="9" nodefill="true" nodemargin="9" nodepadding="20" nodefont="Serif 18" nodemarkup="true"/>
+              <nodename maxwidth="563.55583383958242">
+                <text data="NORMAL MODE&#10;----------------------------------------------------------------------&#10;Enter Motions or Enter Commands to do stuff and to enter other modes.&#10;&#10;ESC to comming back to normal mode from any mode."/>
+              </nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="40" posx="-1850.374360731952" posy="179.04196452954852" width="208" height="348" side="bottom" fold="false" treesize="208" color="#c6262e" colorroot="true" summarized="false" layout="Downwards" group="false">
+                  <style branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="201" nodeborderwidth="9" nodefill="true" nodemargin="9" nodepadding="20" nodefont="Serif 18" nodemarkup="true"/>
+                  <nodename maxwidth="184.61393830730947">
+                    <text data="Motions&#10;----------------&#10;Ex :&#10;h   j   k   l&#10;w   b  e&#10;W  B  E&#10;(Also works with counts)&#10;&#10;0   $"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+                <node id="41" posx="-1642.374360731952" posy="179.04196452954852" width="658" height="203" side="bottom" fold="false" treesize="658" color="#c6262e" colorroot="true" summarized="false" layout="Downwards" group="false">
+                  <style branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="566" nodeborderwidth="9" nodefill="true" nodemargin="9" nodepadding="20" nodefont="Serif 18" nodemarkup="true"/>
+                  <nodename maxwidth="604.69337072724966">
+                    <text data="Commands&#10;---------------------------------------------------------------------------&#10;Format :&#10;[Count]{Operator}{[Count]Motion | Text Object}&#10;"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+              </nodes>
+            </node>
+            <node id="39" posx="-984.37436073195204" posy="-181.95803547045148" width="434" height="290" side="bottom" fold="false" treesize="434" color="#c6262e" colorroot="true" summarized="false" layout="Downwards" group="false">
+              <style branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="381" nodeborderwidth="9" nodefill="true" nodemargin="9" nodepadding="20" nodefont="Serif 18" nodemarkup="true"/>
+              <nodename maxwidth="395.60417363865986">
+                <text data="INSERT MODE&#10;-----------------------------------------------&#10;To start entering text litrary&#10;-----------------------------------------------&#10;Different ways to enter insert mode :&#10;i,   a,   o,   gi,   c,   s,  cc&#10;I,   A,  O,   gI,   C,  S"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="43" posx="-550.37436073195204" posy="-181.95803547045148" width="370" height="261" side="bottom" fold="false" treesize="370" color="#c6262e" colorroot="true" summarized="false" layout="Downwards" group="false">
+              <style branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="309" nodeborderwidth="9" nodefill="true" nodemargin="9" nodepadding="20" nodefont="Serif 18" nodemarkup="true"/>
+              <nodename maxwidth="312.25819634467734">
+                <text data="VISUAL / VISUAL BLOCK MODE&#10;---------------------------------------&#10;(Selecting Text???)&#10;---------------------------------------&#10;To enter Visual Mode :&#10;v   V   Ctrl+V    Shift+v"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="44" posx="-180.37436073195204" posy="-181.95803547045148" width="410" height="232" side="bottom" fold="false" treesize="410" color="#c6262e" colorroot="true" summarized="false" layout="Downwards" group="false">
+              <style branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="345" nodeborderwidth="9" nodefill="true" nodemargin="9" nodepadding="20" nodefont="Serif 18" nodemarkup="true"/>
+              <nodename maxwidth="356.28946869735955">
+                <text data="REPLACE MODE&#10;--------------------------------------------&#10;Replace the text/text object&#10;--------------------------------------------&#10;Different ways to replace :&#10;r   R"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+            <node id="45" posx="229.62563926804796" posy="-181.95803547045148" width="338" height="522" side="bottom" fold="false" treesize="338" color="#c6262e" colorroot="true" summarized="false" layout="Downwards" group="false">
+              <style branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="300" nodeborderwidth="9" nodefill="true" nodemargin="9" nodepadding="20" nodefont="Serif 18" nodemarkup="true"/>
+              <nodename maxwidth="300">
+                <text data="COMMAND LINE MODE&#10;-----------------------------------&#10;Enter command line mode wiht :&#10;: - To enter command line mode  &#10;&#10;/ - Search in forward motion&#10;&#10;?  - Search in reverse motion&#10;&#10;! - External command operator"/>
+              </nodename>
+              <nodenote></nodenote>
+            </node>
+          </nodes>
+        </node>
+        <node id="34" posx="835.12563926804796" posy="-368.95803547045148" width="219" height="87" side="bottom" fold="false" treesize="754" color="#f37329" colorroot="true" summarized="false" layout="Downwards" group="false">
+          <style branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="300" nodeborderwidth="9" nodefill="true" nodemargin="9" nodepadding="20" nodefont="Serif 18" nodemarkup="true"/>
+          <nodename maxwidth="300">
+            <text data="COMMANDS"/>
+          </nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="49" posx="666.12563926804796" posy="-181.95803547045148" width="557" height="116" side="bottom" fold="false" treesize="754" color="#f37329" colorroot="true" summarized="false" layout="Downwards" group="false">
+              <style branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="566" nodeborderwidth="9" nodefill="true" nodemargin="9" nodepadding="20" nodefont="Serif 18" nodemarkup="true"/>
+              <nodename maxwidth="591.38030763958386">
+                <text data="Different types of commands and they do different things in different modes."/>
+              </nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="52" posx="567.62563926804796" posy="34.041964529548522" width="754" height="986" side="bottom" fold="false" treesize="754" color="#f37329" colorroot="true" summarized="false" layout="Downwards" group="false">
+                  <style branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="680" nodeborderwidth="9" nodefill="true" nodemargin="9" nodepadding="20" nodefont="Serif 18" nodemarkup="true"/>
+                  <nodename maxwidth="704.6974772651547">
+                    <text data="NORMAL MODE COMMANDS has following Format :&#10;---------------------------------------------------------------------------------------&#10;[Count]{OPERATOR}{[Count]Motion | Text Object}&#10;---------------------------------------------------------------------------------------&#10;&gt;&gt;Operator will do some operation on the text.&#10;Ex. i to go into insert mode.&#10;       yy to copy line&#10;       x   dd   u   s    etc. &#10;&#10;&gt;&gt; Operator will take Motion or Text Object as an argument.&#10;&#10;&gt;&gt; Motion is the direction the Operator should be applied to.&#10;Ex. h  j  k  l  w  e  W  E  0  $  etc. &#10;&#10;&gt;&gt; Count is optional. It is a number which can be palced before Operator or Motion.&#10;&#10; - If placed before Operator, it will repeate the operation that many times.&#10;&#10;- If placed before motion it will do that motion (or operation in that perticular motion) that many times.&#10;&#10;&gt;&gt; Text Objects go with Special Motion.&#10;- Ex of text obj : w for Word, s for Sentence, p for Paragraph, t for Tags&#10;&#10;&gt;&gt; Special motion works inside or around objects:&#10;Ex. of special motion :  i for Inside the Object, &#10;                                    a for Around the Object."/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+              </nodes>
+            </node>
+          </nodes>
+        </node>
+        <node id="35" posx="1448.625639268048" posy="-368.95803547045148" width="182" height="87" side="bottom" fold="false" treesize="436" color="#f9c440" colorroot="true" summarized="false" layout="Downwards" group="false">
+          <style branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="300" nodeborderwidth="9" nodefill="true" nodemargin="9" nodepadding="20" nodefont="Serif 18" nodemarkup="true"/>
+          <nodename maxwidth="300">
+            <text data="BUFFERS"/>
+          </nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="53" posx="1343.625639268048" posy="-181.95803547045148" width="392" height="87" side="bottom" fold="false" treesize="436" color="#f9c440" colorroot="false" summarized="false" layout="Downwards" group="false">
+              <style branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="335" nodeborderwidth="9" nodefill="true" nodemargin="9" nodepadding="20" nodefont="Serif 18" nodemarkup="true"/>
+              <nodename maxwidth="338.7821231378075">
+                <text data="One file means one buffere."/>
+              </nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="54" posx="1321.625639268048" posy="5.0419645295485225" width="436" height="290" side="bottom" fold="false" treesize="436" color="#f9c440" colorroot="false" summarized="false" layout="Downwards" group="false">
+                  <style branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="366" nodeborderwidth="9" nodefill="true" nodemargin="9" nodepadding="20" nodefont="Serif 18" nodemarkup="true"/>
+                  <nodename maxwidth="381.86180013567264">
+                    <text data="Different ways to manipulate buffers in a given window&#10;-----------------------------------------------&#10;- :bnext&#10;- bprevious&#10;- :buffer + filename&#10;- :buffer + buffer number&#10;- :bdelete + filename / buffer #"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+              </nodes>
+            </node>
+          </nodes>
+        </node>
+        <node id="36" posx="1836.625639268048" posy="-368.95803547045148" width="193" height="87" side="bottom" fold="false" treesize="351" color="#68b723" colorroot="true" summarized="false" layout="Downwards" group="false">
+          <style branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="300" nodeborderwidth="9" nodefill="true" nodemargin="9" nodepadding="20" nodefont="Serif 18" nodemarkup="true"/>
+          <nodename maxwidth="300">
+            <text data="WINDOWS"/>
+          </nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="55" posx="1757.625639268048" posy="-181.95803547045148" width="351" height="232" side="bottom" fold="false" treesize="351" color="#68b723" colorroot="false" summarized="false" layout="Downwards" group="false">
+              <style branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="300" nodeborderwidth="9" nodefill="true" nodemargin="9" nodepadding="20" nodefont="Serif 18" nodemarkup="true"/>
+              <nodename maxwidth="300">
+                <text data="Window is throuh which you see buffer.&#10;&#10;Different windows can have different or same buffer at the same time."/>
+              </nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="56" posx="1788.125639268048" posy="150.04196452954852" width="290" height="232" side="bottom" fold="false" treesize="290" color="#68b723" colorroot="false" summarized="false" layout="Downwards" group="false">
+                  <style branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="300" nodeborderwidth="9" nodefill="true" nodemargin="9" nodepadding="20" nodefont="Serif 18" nodemarkup="true"/>
+                  <nodename maxwidth="300">
+                    <text data="Ex to manipulate windows&#10;-----------------------------&#10;- :split filename&#10;- :vsplit filename&#10;- :new filename"/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+              </nodes>
+            </node>
+          </nodes>
+        </node>
+        <node id="37" posx="2336.625639268048" posy="-368.95803547045148" width="124" height="87" side="bottom" fold="false" treesize="580" color="#3689e6" colorroot="true" summarized="false" layout="Downwards" group="false">
+          <style branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="300" nodeborderwidth="9" nodefill="true" nodemargin="9" nodepadding="20" nodefont="Serif 18" nodemarkup="true"/>
+          <nodename maxwidth="300">
+            <text data="TABS"/>
+          </nodename>
+          <nodenote></nodenote>
+          <nodes>
+            <node id="57" posx="2108.625639268048" posy="-181.95803547045148" width="580" height="87" side="bottom" fold="false" treesize="580" color="#3689e6" colorroot="false" summarized="false" layout="Downwards" group="false">
+              <style branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="510" nodeborderwidth="9" nodefill="true" nodemargin="9" nodepadding="20" nodefont="Serif 18" nodemarkup="true"/>
+              <nodename maxwidth="523.64622805388808">
+                <text data="Layout of Windows / Collaction of windows"/>
+              </nodename>
+              <nodenote></nodenote>
+              <nodes>
+                <node id="58" posx="2221.625639268048" posy="5.0419645295485225" width="354" height="319" side="bottom" fold="false" treesize="354" color="#3689e6" colorroot="false" summarized="false" layout="Downwards" group="false">
+                  <style branchmargin="100" branchradius="25" linktype="straight" linkwidth="4" linkarrow="true" linkdash="solid" nodeborder="rounded" nodewidth="300" nodeborderwidth="9" nodefill="true" nodemargin="9" nodepadding="20" nodefont="Serif 18" nodemarkup="true"/>
+                  <nodename maxwidth="300">
+                    <text data="Ex to nevigate tabs :&#10;-------------------------------------&#10;:tabnew filename&#10;:tabclose&#10;:tabnext&#10;:tabprevious&#10;&#10;Closing a tab does not mean cloaisng buffers."/>
+                  </nodename>
+                  <nodenote></nodenote>
+                </node>
+              </nodes>
+            </node>
+          </nodes>
+        </node>
+      </nodes>
+    </node>
+    <node id="50" posx="57.278662775790508" posy="1341.1018452104072" width="880" height="192" side="top" fold="false" treesize="880.00000000000023" summarized="false" layout="Downwards" group="false">
+      <style branchmargin="145" branchradius="25" linktype="straight" linkwidth="8" linkarrow="false" linkdash="solid" nodeborder="rounded" nodewidth="800" nodeborderwidth="9" nodefill="true" nodemargin="20" nodepadding="20" nodefont="Serif 17" nodemarkup="true"/>
+      <nodename maxwidth="800">
+        <text data="Can configure Vim by adding Command Mode commands and (Other stuff ) into .vimrc file.&#10;&#10;There is a Language call vim script to (do more stuff)"/>
+      </nodename>
+      <nodenote></nodenote>
+    </node>
+  </nodes>
+  <groups/>
+  <stickers/>
+  <nodelinks id="0"/>
+</minder>
